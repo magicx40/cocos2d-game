@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "61bf3dc9-e4cb-4fa9-bc5d-f9121be0ab28",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 18,
+  "height": 14,
+  "platformSettings": {},
+  "subMetas": {
+    "Big-Heart-Hit-(18x14)_02": {
+      "ver": "1.0.6",
+      "uuid": "69fd4664-8256-4f6b-a3b9-c425fa2926f1",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "61bf3dc9-e4cb-4fa9-bc5d-f9121be0ab28",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 2,
+      "offsetY": -0.5,
+      "trimX": 9,
+      "trimY": 5,
+      "width": 4,
+      "height": 5,
+      "rawWidth": 18,
+      "rawHeight": 14,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

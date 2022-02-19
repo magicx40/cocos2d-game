@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "cc39cde0-f819-47d7-bc10-ff030e56cd98",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 26,
+  "height": 30,
+  "platformSettings": {},
+  "subMetas": {
+    "Picking-Box-(26x30)_02": {
+      "ver": "1.0.6",
+      "uuid": "d9602769-17a9-4e41-8652-cc465fdb5542",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "cc39cde0-f819-47d7-bc10-ff030e56cd98",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": -3,
+      "trimX": 2,
+      "trimY": 6,
+      "width": 21,
+      "height": 24,
+      "rawWidth": 26,
+      "rawHeight": 30,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

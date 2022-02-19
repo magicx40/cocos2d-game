@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "c29ea579-2bae-4a0c-b70d-1ba4248c792d",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 18,
+  "height": 14,
+  "platformSettings": {},
+  "subMetas": {
+    "Big-Diamond-Hit-(18x14)_02": {
+      "ver": "1.0.6",
+      "uuid": "4acdfe6a-b26e-4164-a6ef-b1adaff3a706",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "c29ea579-2bae-4a0c-b70d-1ba4248c792d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 2,
+      "offsetY": -0.5,
+      "trimX": 8,
+      "trimY": 5,
+      "width": 6,
+      "height": 5,
+      "rawWidth": 18,
+      "rawHeight": 14,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

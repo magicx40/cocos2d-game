@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "44d835b2-d83f-4f78-b344-93a18cd56d1a",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 18,
+  "height": 14,
+  "platformSettings": {},
+  "subMetas": {
+    "Small-Heart-Idle-(18x14)_04": {
+      "ver": "1.0.6",
+      "uuid": "52638c54-0ea5-411b-85c4-226256a7a510",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "44d835b2-d83f-4f78-b344-93a18cd56d1a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 2,
+      "offsetY": -0.5,
+      "trimX": 7,
+      "trimY": 4,
+      "width": 8,
+      "height": 7,
+      "rawWidth": 18,
+      "rawHeight": 14,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

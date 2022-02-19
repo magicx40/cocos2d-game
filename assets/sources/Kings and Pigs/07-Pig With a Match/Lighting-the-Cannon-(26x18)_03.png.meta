@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "f663ce57-6916-43f5-8b48-7056eb2473e9",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 26,
+  "height": 18,
+  "platformSettings": {},
+  "subMetas": {
+    "Lighting-the-Cannon-(26x18)_03": {
+      "ver": "1.0.6",
+      "uuid": "ab63f24f-a9b9-43b8-89b2-fe70b341c3d6",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "f663ce57-6916-43f5-8b48-7056eb2473e9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 2,
+      "offsetY": -1,
+      "trimX": 5,
+      "trimY": 2,
+      "width": 20,
+      "height": 16,
+      "rawWidth": 26,
+      "rawHeight": 18,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

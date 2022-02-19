@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "89d5cd94-4a8a-4a0d-9fb3-b9a2beba65fb",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 26,
+  "height": 26,
+  "platformSettings": {},
+  "subMetas": {
+    "Picking-Bomb-(26x26)_01": {
+      "ver": "1.0.6",
+      "uuid": "913a9e6b-b7c8-43bd-b859-f310894ff52f",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "89d5cd94-4a8a-4a0d-9fb3-b9a2beba65fb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2.5,
+      "offsetY": -4,
+      "trimX": 1,
+      "trimY": 8,
+      "width": 19,
+      "height": 18,
+      "rawWidth": 26,
+      "rawHeight": 26,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

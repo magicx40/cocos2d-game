@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "8f02975b-cb65-45a9-b66e-69d4f8420104",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 134,
+  "height": 14,
+  "platformSettings": {},
+  "subMetas": {
+    "Kings and Pigs": {
+      "ver": "1.0.6",
+      "uuid": "f8c9c215-948f-44fe-8b24-aade6e474401",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "8f02975b-cb65-45a9-b66e-69d4f8420104",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 134,
+      "height": 13,
+      "rawWidth": 134,
+      "rawHeight": 14,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
